@@ -5,7 +5,7 @@ Welcome to my GitHub profile!
 
 ## 💻 About Me
 - 🔭 I’m currently working on **open-source projects** and personal tools.
-- 🌱 I’m learning **C#, Python, C/C++, and reverse engineering **.
+- 🌱 I’m learning ** C#, Python, C/C++, and reverse engineering **.
 
 ## 🚀 Projects
 I will soon make projects that will beautify my github page. 
