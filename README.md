@@ -1,10 +1,5 @@
 
 <div align="center">
-
-  <img src="https://64.media.tumblr.com/b284141d08e5bc01e389d0473952f4be/tumblr_inline_p7rv23x6Oa1r4mkii_500.gif" width="100%" style="border-radius: 15px; box-shadow: 0px 5px 15px rgba(0, 150, 255, 0.3);">
-
-  <br><br>
-
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Verdana&weight=600&size=30&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=Hi,+I'm+Switly!+%F0%9F%91%8B;Coder+%26+Developer+%F0%9F%92%BB;Frutiger+Aero+Lover+%F0%9F%8C%8A" alt="Typing SVG" />
   </a>
