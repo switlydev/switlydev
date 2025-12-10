@@ -14,7 +14,7 @@
 
 <hr style="border: 2px solid #007ACC; border-radius: 5px;">
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> About Me
+### <img src="media/cat.gif" width="30"> About Me
 
 > *"I'm a young developer who loves coding. I spend my free time building projects."* 🌐
 
@@ -29,7 +29,7 @@
       <b>🐧 OS:</b> Linux Lover
     </td>
     <td valign="center">
-      <img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cThvbjl6Z2hyZm9mZ3MxenVhcG54ajQwOHA4aTUzZ3FvcWJ0bXdvcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l41YamEiIYltJtLUI/giphy.gif" width="120" />
+      <img align="right" src="media/aero.gif" width="120" />
     </td>
   </tr>
 </table>
@@ -50,12 +50,10 @@
 
 
 
-### <img src="https://media.giphy.com/media/iTts6BfB6H9O8/giphy.gif" width="30"> GitHub Stats
+### <img src="https://media.giphy.com/media/iTts6BfB6H9O8/" width="30"> GitHub Stats
 
 <div align="center">
-<a href="https://github.com/switlydev">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=switlydev&theme=transparent&background=E0F7FA&border=E0F7FA&stroke=007ACC&ring=007ACC&fire=007ACC&currStreakLabel=01579B&currStreakNum=000000&sideNums=000000&sideLabels=01579B&dates=01579B&hide_border=true&locale=en"alt="Image could not be uploaded."/>
-</a>
 </div>
 
 <br>
