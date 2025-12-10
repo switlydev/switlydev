@@ -54,11 +54,11 @@
 
 <div align="center">
 <a href="https://github.com/switlydev">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=switlydev&theme=transparent&background=E0F7FA&border=E0F7FA&stroke=007ACC&ring=007ACC&fire=007ACC&currStreakLabel=01579B&currStreakNum=000000&sideNums=000000&sideLabels=01579B&dates=01579B&hide_border=true&locale=en"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=switlydev&theme=transparent&background=E0F7FA&border=E0F7FA&stroke=007ACC&ring=007ACC&fire=007ACC&currStreakLabel=01579B&currStreakNum=000000&sideNums=000000&sideLabels=01579B&dates=01579B&hide_border=true&locale=en"alt="Image could not be uploaded."/>
 </a>
 </div>
 
-
+<br>
 <div align="center">
   <a href="https://github.com/switlydev">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=100&section=footer"/>
