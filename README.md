@@ -1,64 +1,39 @@
-
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Verdana&weight=600&size=30&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=Hi,+I'm+Switly!+%F0%9F%91%8B;Coder+%26+Developer+%F0%9F%92%BB;Frutiger+Aero+Lover+%F0%9F%8C%8A" alt="Typing SVG" />
-  </a>
-
-  <br>
-
-  <a href="https://switlydev.github.io/">
-    <img src="https://img.shields.io/badge/My_Portfolio-Visit_Me-2EA44F?style=for-the-badge&logo=github&logoColor=white" height="30"/>
-  </a>
-
+    <b>Hey, I'm Switly.</b>
 </div>
-
-<hr style="border: 2px solid #007ACC; border-radius: 5px;">
-
-### <img src="media/cat.gif" width="30"> About Me
-
-> *"I'm a young developer who loves coding. I spend my free time building projects."* 🌐
-
 <br>
 
-<table>
-  <tr>
-    <td valign="center">
-      <b>👤 Name:</b> Switly<br>
-      <b>🎂 Age:</b> 17<br>
-      <b>📍 Location:</b> Turkey<br>
-      <b>🐧 OS:</b> Linux Lover
-    </td>
-    <td valign="center">
-      <img align="right" src="media/aero.gif" width="120" />
-    </td>
-  </tr>
-</table>
+An 18-year-old guy interested in building stuff, AI, and ML.  
 
+## About me
+- 🔭 I'm currently working on open-source developer tools and cross-platform desktop/mobile applications.
+- 🌱 I’m currently learning low-level systems programming, LLM quantization, and custom tool-calling agents.
+- ⚡ Fun fact: I love optimizing workflows for performance and resource efficiency under hardware constraints.
 
+### 🛠️ Tech Stack
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> My Tech Stack
+- **Languages:** C, C++, Rust, Python, TypeScript, JavaScript
+- **Tools & Systems:** Linux, Git, Docker, Neovim, Cloudflare
+- **AI & ML:** Unsloth, PyTorch, Local LLMs, Ollama
+- **Reverse Engineering:** IDA, Frida, Jadx
 
-<div align="center">
+### 🚀 Featured Projects
 
-  <img src="https://skillicons.dev/icons?i=python,cs,java,c,cpp&perline=5" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=html,css,js&perline=5" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=dotnet,mysql,mongodb,linux&perline=5" />
+This area will very soon be filled with great projects (most of which are currently confidential).
 
-</div>
+<details>
+<summary><b>📂 Older & Archived Projects</b> (Click to expand)</summary>
 
+- **[SwitlyBrawl](https://switly.dev/projects/switlybrawl/)** - A Brawl Stars Private Server with custom Brawler abilities.
+- **[Stunt Brawl](https://switly.dev/projects/stunt-brawl/)** - A Brawl Stars Private Server with older game atmosphere.
 
+</details>
 
-### <img src="https://media.giphy.com/media/iTts6BfB6H9O8/" width="30"> GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=switlydev&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=switlydev&theme=transparent&background=E0F7FA&border=E0F7FA&stroke=007ACC&ring=007ACC&fire=007ACC&currStreakLabel=01579B&currStreakNum=000000&sideNums=000000&sideLabels=01579B&dates=01579B&hide_border=true&locale=en"alt="Image could not be uploaded."/>
-</div>
-
-<br>
-<div align="center">
-  <a href="https://github.com/switlydev">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=100&section=footer"/>
-  </a>
-</div>
+### 📬 Connect with me
+- Email: [contact@switly.dev](mailto:contact@switly.dev)
+- Website: [switly.dev](https://switly.dev)
+- Telegram: [@switlydev](https://t.me/switlydev)
